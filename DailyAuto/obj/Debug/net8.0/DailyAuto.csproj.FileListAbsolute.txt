@@ -136,3 +136,4 @@ C:\Users\Usuario\source\repos\DailyAuto\DailyAuto\obj\Debug\net8.0\refint\DailyA
 C:\Users\Usuario\source\repos\DailyAuto\DailyAuto\obj\Debug\net8.0\DailyAuto.pdb
 C:\Users\Usuario\source\repos\DailyAuto\DailyAuto\obj\Debug\net8.0\DailyAuto.genruntimeconfig.cache
 C:\Users\Usuario\source\repos\DailyAuto\DailyAuto\obj\Debug\net8.0\ref\DailyAuto.dll
+C:\Users\Usuario\source\repos\DailyAuto\DailyAuto\obj\Debug\net8.0\DailyAuto.sourcelink.json
