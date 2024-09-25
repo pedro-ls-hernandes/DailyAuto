@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\DailyAuto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31378CB1-4E5B-4A33-BFA8-21B5AE84155D}|DailyAuto\\DailyAuto.csproj|c:\\users\\usuario\\source\\repos\\dailyauto\\dailyauto\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31378CB1-4E5B-4A33-BFA8-21B5AE84155D}|DailyAuto\\DailyAuto.csproj|solutionrelative:dailyauto\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31378CB1-4E5B-4A33-BFA8-21B5AE84155D}|DailyAuto\\DailyAuto.csproj|c:\\users\\usuario\\source\\repos\\dailyauto\\dailyauto\\models\\vehiclecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31378CB1-4E5B-4A33-BFA8-21B5AE84155D}|DailyAuto\\DailyAuto.csproj|solutionrelative:dailyauto\\models\\vehiclecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31378CB1-4E5B-4A33-BFA8-21B5AE84155D}|DailyAuto\\DailyAuto.csproj|c:\\users\\usuario\\source\\repos\\dailyauto\\dailyauto\\models\\worktools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31378CB1-4E5B-4A33-BFA8-21B5AE84155D}|DailyAuto\\DailyAuto.csproj|solutionrelative:dailyauto\\models\\worktools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31378CB1-4E5B-4A33-BFA8-21B5AE84155D}|DailyAuto\\DailyAuto.csproj|c:\\users\\usuario\\source\\repos\\dailyauto\\dailyauto\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31378CB1-4E5B-4A33-BFA8-21B5AE84155D}|DailyAuto\\DailyAuto.csproj|solutionrelative:dailyauto\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31378CB1-4E5B-4A33-BFA8-21B5AE84155D}|DailyAuto\\DailyAuto.csproj|c:\\users\\usuario\\source\\repos\\dailyauto\\dailyauto\\models\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31378CB1-4E5B-4A33-BFA8-21B5AE84155D}|DailyAuto\\DailyAuto.csproj|solutionrelative:dailyauto\\models\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31378CB1-4E5B-4A33-BFA8-21B5AE84155D}|DailyAuto\\DailyAuto.csproj|c:\\users\\usuario\\source\\repos\\dailyauto\\dailyauto\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31378CB1-4E5B-4A33-BFA8-21B5AE84155D}|DailyAuto\\DailyAuto.csproj|solutionrelative:dailyauto\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31378CB1-4E5B-4A33-BFA8-21B5AE84155D}|DailyAuto\\DailyAuto.csproj|c:\\users\\usuario\\source\\repos\\dailyauto\\dailyauto\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31378CB1-4E5B-4A33-BFA8-21B5AE84155D}|DailyAuto\\DailyAuto.csproj|solutionrelative:dailyauto\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31378CB1-4E5B-4A33-BFA8-21B5AE84155D}|DailyAuto\\DailyAuto.csproj|c:\\users\\usuario\\source\\repos\\dailyauto\\dailyauto\\models\\professional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31378CB1-4E5B-4A33-BFA8-21B5AE84155D}|DailyAuto\\DailyAuto.csproj|solutionrelative:dailyauto\\models\\professional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31378CB1-4E5B-4A33-BFA8-21B5AE84155D}|DailyAuto\\DailyAuto.csproj|c:\\users\\usuario\\source\\repos\\dailyauto\\dailyauto\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31378CB1-4E5B-4A33-BFA8-21B5AE84155D}|DailyAuto\\DailyAuto.csproj|solutionrelative:dailyauto\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\DailyAuto\\DailyAuto\\Models\\VehicleCategory.cs",
+              "RelativeDocumentMoniker": "DailyAuto\\Models\\VehicleCategory.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\DailyAuto\\DailyAuto\\Models\\VehicleCategory.cs",
+              "RelativeToolTip": "DailyAuto\\Models\\VehicleCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:53:47.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Worktools.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\DailyAuto\\DailyAuto\\Models\\Worktools.cs",
+              "RelativeDocumentMoniker": "DailyAuto\\Models\\Worktools.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\DailyAuto\\DailyAuto\\Models\\Worktools.cs",
+              "RelativeToolTip": "DailyAuto\\Models\\Worktools.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:53:08.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\DailyAuto\\DailyAuto\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "DailyAuto\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\DailyAuto\\DailyAuto\\Models\\Stock.cs",
+              "RelativeToolTip": "DailyAuto\\Models\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:52:27.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\DailyAuto\\DailyAuto\\Models\\OrderService.cs",
+              "RelativeDocumentMoniker": "DailyAuto\\Models\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\DailyAuto\\DailyAuto\\Models\\OrderService.cs",
+              "RelativeToolTip": "DailyAuto\\Models\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:52:06.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\DailyAuto\\DailyAuto\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "DailyAuto\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\DailyAuto\\DailyAuto\\Models\\Service.cs",
+              "RelativeToolTip": "DailyAuto\\Models\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:51:54.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\DailyAuto\\DailyAuto\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "DailyAuto\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\DailyAuto\\DailyAuto\\Models\\Vehicle.cs",
+              "RelativeToolTip": "DailyAuto\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:51:19.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Professional.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\DailyAuto\\DailyAuto\\Models\\Professional.cs",
+              "RelativeDocumentMoniker": "DailyAuto\\Models\\Professional.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\DailyAuto\\DailyAuto\\Models\\Professional.cs",
+              "RelativeToolTip": "DailyAuto\\Models\\Professional.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:51:06.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\DailyAuto\\DailyAuto\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "DailyAuto\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\DailyAuto\\DailyAuto\\Models\\Client.cs",
+              "RelativeToolTip": "DailyAuto\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:50:54.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\DailyAuto\\DailyAuto\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DailyAuto\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\DailyAuto\\DailyAuto\\Models\\User.cs",
+              "RelativeToolTip": "DailyAuto\\Models\\User.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA9wA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:50:42.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
